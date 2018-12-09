@@ -1,1 +1,2 @@
-sqlmap
+printf("hello\n");
+return 0;
